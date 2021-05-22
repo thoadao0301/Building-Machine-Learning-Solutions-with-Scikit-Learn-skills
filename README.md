@@ -3,6 +3,6 @@
 
 ### Beginner:
 * Building Classification Models with scikit-learn: <br/>
- + Titanic classification problem ✔️ <br/>
- + Image Classification problem with fashion mnist dataset (csv) ✔️ <be/>
+   + Titanic classification problem ✔️ <br/>
+   + Image Classification problem with fashion mnist dataset (csv) ✔️ <be/>
 
