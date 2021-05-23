@@ -7,6 +7,6 @@
    + Image Classification problem with fashion mnist dataset (csv) ✔️ <br/>
 * Building Clustering Models with scikit-learn: <br/>
    - Classical problem: <br/>
-      + Random integer clustering
-      + Iris dataset clustering
+      + Random integer clustering ✔️ <br/>
+      + Iris dataset clustering ✔️ <br/>
 
