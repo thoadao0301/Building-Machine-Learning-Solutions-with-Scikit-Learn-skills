@@ -6,7 +6,11 @@
    + Titanic classification problem ✔️ <br/>
    + Image Classification problem with fashion mnist dataset (csv) ✔️ <br/>
 * Building Clustering Models with scikit-learn: <br/>
-   - Classical problem: <br/>
-      + Random integer clustering ✔️ <br/>
-      + Iris dataset clustering ✔️ <br/>
+   + Random integer clustering ✔️ <br/>
+   + Iris dataset clustering ✔️ <br/>
+   + Driver detail clustering ✔️ <br/>
+   + Hand wrintten clustering ✔️ <br/>
+#### Project aplication:
+* Classification:
+   + Hr_analysis ✔️
 
