@@ -1,5 +1,4 @@
-# Building-Machine-Learning-Solutions-with-Scikit-Learn-skill-assessment
-## Over the course of my learning
+# Building-Machine-Learning-Solutions-with-Scikit-Learn-skills
 
 ### Beginner:
 * Building Classification Models with scikit-learn: <br/>
