@@ -8,8 +8,13 @@
    + Random integer clustering ✔️ <br/>
    + Iris dataset clustering ✔️ <br/>
    + Driver detail clustering ✔️ <br/>
-   + Hand wrintten clustering ✔️ <br/>
-#### Project aplication:
+   + Hand written clustering ✔️ <br/>
+* Building Regression Models with scikit-learn:
+   + Regression with auto mpg dataset ✔️
+   + Regression with exam score category dataset ✔️
+#### Project application:
 * Classification:
    + Hr_analysis ✔️
+* Regression:
+   + California housing prediction ✔️
 
