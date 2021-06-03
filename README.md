@@ -12,9 +12,17 @@
 * Building Regression Models with scikit-learn:
    + Regression with auto mpg dataset ✔️
    + Regression with exam score category dataset ✔️
+
+### Intermediate:
+* Building Neural Networks with scikit-learn:
+   + Multi-layer Perceptron regression with diet dataset ✔️
+   + Multi-layer Perceptron classification with Lower back pain data set ✔️
+   + Multi-layer Perceptron classification News group with Text data 20newsgroups ✔️ 
 #### Project application:
 * Classification:
    + Hr_analysis ✔️
 * Regression:
    + California housing prediction ✔️
+* Clustering:
+   + Brazilian E-Commerces ✔️
 
