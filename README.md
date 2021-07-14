@@ -21,6 +21,11 @@
 #### Project application:
 * Classification:
    + Hr_analysis ✔️
+      - Overview dataset.
+      - Visualization and Analytic dataset
+      - Model Classifier
+      - Result
+      
 * Regression:
    + California housing prediction ✔️
 * Clustering:
