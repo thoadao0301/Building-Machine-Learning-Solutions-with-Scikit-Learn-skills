@@ -20,12 +20,12 @@
    + Multi-layer Perceptron classification News group with Text data 20newsgroups ✔️ 
 #### Project application:
 * Classification:
-   + Hr_analysis ✔️
+   + [Hr_analysis](https://github.com/thoadao0301/Building-Machine-Learning-Solutions-with-Scikit-Learn-skills/blob/main/Project_application/Hr_classification.ipynb) ✔️
       - Overview dataset.
-      - Visualization and Analytic dataset
-      - Model Classifier
-      - Result
-      
+      - Visualization and Analytic dataset.
+      - Model Classifier.
+      - Result:
+      ![summary score of each classifier](https://github.com/thoadao0301/Building-Machine-Learning-Solutions-with-Scikit-Learn-skills/blob/main/acc_image/HR.JPG)
 * Regression:
    + California housing prediction ✔️
 * Clustering:
