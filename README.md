@@ -28,6 +28,12 @@
       ![summary score of each classifier](https://github.com/thoadao0301/Building-Machine-Learning-Solutions-with-Scikit-Learn-skills/blob/main/acc_image/HR.JPG)
 * Regression:
    + California housing prediction ✔️
+      - Overview dataset
+      - Visualization
+      - Remove outliers
+      - Modelling: is improving
+      - Result: Linear regression with not hight r2_score: 0.58 on test dataset
+         
 * Clustering:
    + Brazilian E-Commerces ✔️
 
